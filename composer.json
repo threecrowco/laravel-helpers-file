@@ -1,5 +1,5 @@
 {
-    "name": "calebporzio/laravel-helpers-file",
+    "name": "threecrowco/laravel-helpers-file",
     "description": "Because I can never remember exactly how to autoload my helpers.php file",
     "license": "MIT",
     "authors": [
